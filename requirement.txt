@@ -1,0 +1,13 @@
+pyautogui
+numpy
+opencv-python
+pillow
+pyscreeze
+# event listener
+pynput
+# keyboard control (alternative to pyautogui)
+keyboard
+# mode prod + entraînement du modèle
+tensorflow
+scikit-learn
+# note : xdotool est un outil système (pas pip), installer avec : sudo apt install xdotool
