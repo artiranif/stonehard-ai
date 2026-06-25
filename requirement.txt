@@ -6,7 +6,7 @@ pyscreeze
 # event listener
 pynput
 # keyboard control (alternative to pyautogui)
-keyboard
+# keyboard 
 # mode prod + entraînement du modèle
 tensorflow
 scikit-learn
